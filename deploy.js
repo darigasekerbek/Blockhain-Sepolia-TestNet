@@ -1,9 +1,9 @@
 const { Web3 } = require("web3");
 var ETHEREUM_NETWORK = "sepolia";
 var INFURA_API_KEY = "d8843ae7c7ea4c8d97abc7bdf08a5186";
-var SIGNER_PRIVATE_KEY = "42e2f4f96e3d01e9b54580d990b965dd95c02136dd7ccd922fc772582026121c";
+var SIGNER_PRIVATE_KEY = "7e28bf90916100b66825657f68b02d8e19e2e21503a3a96971596ec9e142db50";
 
-var DEMO_CONTRACT = '0xD83BC647A3C58A34a37033d504e868a96327eDff';
+var DEMO_CONTRACT = '0x8D5a64216Df78D2826C29167Bc59810C284ae655';
 
 // Loading the contract ABI and Bytecode
 // (the results of a previous compilation step)
