@@ -1,4 +1,4 @@
-# Blockhain-2
+# Blockchain - 2 Assignment Documentation: Deployment, Interaction, and Transaction Execution"
 To begin, we start by obtaining the Web3 package and the package.json file for the project.
 
 For the purpose of this assignment, INFURA is utilized in conjunction with the Sepolia TestNet. This setup is connected to MetaMask, providing a seamless integration for interacting with the Ethereum blockchain.
